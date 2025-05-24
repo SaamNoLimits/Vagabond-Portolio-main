@@ -1,7 +1,7 @@
 # Vagabond Portfolio
 
 Vagabond is a modern portfolio built using **Next.js** and **React.js**. The project showcases a personal portfolio website with a sleek design, incorporating sections such as "About Me," "Skills," "Projects," and "Contact." It also features background videos, social media links, and a smooth, responsive UI.
-
+HERE WE GO : https://vagabond-oussama-ahjli.vercel.app/
 ## Table of Contents
 
 - [About](#about)
@@ -37,7 +37,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/SaamNoLimits
+    git clone https://github.com/SaamNoLimits/Vagabond-Portolio-main.git
     ```
 
 2. Navigate to the project directory:
